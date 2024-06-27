@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class Conexion {
 
     Connection con;
-    String url = "jdbc:mysql://localhost:3307/bd_carritocompras";
+    String url = "jdbc:mysql://localhost:3306/bd_carritocompras2";
     String user = "root";
     String pass = "";
 
